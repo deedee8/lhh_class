@@ -1,4 +1,4 @@
-let answer = 8;
+let answer = random(1, 10);
 
 while (true) {
     let guess = prompt("Enter a number between 1 and 10");
