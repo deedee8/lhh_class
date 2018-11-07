@@ -16,7 +16,7 @@ function deal() {
             }
             else card.reversed = true;
         }
-
+        
     }
 }
     /*
